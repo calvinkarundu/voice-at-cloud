@@ -1,0 +1,26 @@
+{
+  "name": "voice-at-cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinkarundu/voice-at-cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinkarundu/voice-at-cloud/issues"
+  },
+  "homepage": "https://github.com/calvinkarundu/voice-at-cloud#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "lodash": "^4.15.0",
+    "morgan": "^1.7.0"
+  }
+}
