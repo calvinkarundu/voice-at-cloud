@@ -15,7 +15,7 @@ module.exports = function(app) {
 
     if (incoming.isActive === '1') {
       try {
-        response = `<Response><Say>Valentines is coming! Where is your girlfriend ... you are still alone.</Say></Response>`
+        response = `<Response><Say>Valentines is still coming oooooo!.</Say></Response>`
       } catch(e) {
         console.log('[ERROR] Generating Response');
         console.log(e);
